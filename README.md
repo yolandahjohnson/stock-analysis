@@ -6,7 +6,7 @@ Steve is manageing his parents stock portfolio. They are passsionate about green
 
 Steve likes the work I have done so far to analyze a few dozen stocks but would like to see how the analysis of thousands of stocks would work. Utilizing refactoring code, my goal is to make the code more efficient by taking fewer steps, using less memory, or improving the logic of the code to make it easier for future users to read.
 
-##Results
+## Results
 
 In comparing DQ for years 2017 and 2018, 2017 had a better return at a positive 199.4%. While 2018 fared worse at a lose of return of -62.6%. The same could be said for all other stocks. 2017 was definitely a better year for all stocks except for TERP that had a negative return of -7.2%.
 
